@@ -43,6 +43,7 @@ section {
   padding: 5px 10px;
   overflow: hidden;
   margin-bottom: 25px;
+  min-height: 400px;
 }
 section:hover {
   background-color: #7f8c8d;
